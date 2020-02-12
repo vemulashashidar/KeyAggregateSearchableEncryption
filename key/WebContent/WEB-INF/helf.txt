@@ -1,0 +1,16 @@
+user login 
+	1.register user login 
+	2.upload data in cloud file name and userkey
+	3.check tha mail- access key
+	4.download tha file click  key1 one give encriptated key is match 
+	data enrpity data come next key 2 give to download 
+`	orginal file download 
+                5 .share file in group send mulity key
+Admin Login
+	1.check tha user Details 
+	2.graph view
+	3.Accesskey send user
+	4.Share file check View
+
+
+	

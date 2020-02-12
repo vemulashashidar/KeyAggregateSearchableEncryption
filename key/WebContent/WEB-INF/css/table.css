@@ -1,0 +1,19 @@
+table { text-align: center;  }
+
+table {border-collapse: collapse;  width: 80%; margin: 0 auto 5rem;}
+
+th, td { padding: 1.2rem; font-size: 1.4rem; }
+
+tr {background: }
+
+tr, td { transition: .4s ease-in; } 
+
+tr:first-child {background: }
+
+tr:nth-child(even) { background: }
+
+
+
+tr:hover:not(#firstrow), tr:hover td {background:#00FFFF; pointer-events: visible;}
+tr:hover:not(#firstrow) { transform: scale(1.2); font-weight: 700; box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.5);}
+

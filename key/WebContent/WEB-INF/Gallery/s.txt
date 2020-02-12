@@ -1,0 +1,8 @@
+1.Diminishing Routing Overhead in MANET Using Proactive Source Routing Protocol (Base paper - PSR:A Lightweight Proactive Source Routing
+Protocol For Mobile Ad Hoc Networks )
+2. Enhancing Tail Theft using Dynamic Timer Schemes in Mobile(Base Paper - Leverage the tail theft)
+
+1.A Trusted IaaS Environment
+with Hardware Security Module
+2.Key-Aggregate Searchable Encryption (KASE)for Group Data Sharing via Cloud Storage
+3.Public Integrity Auditing for Shared DynamicCloud Data with Group User Revo
